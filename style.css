@@ -1,0 +1,21 @@
+ 
+div {
+	text-align: center;
+	font-size: 28px;
+	color:green;
+	text-transform: uppercase;
+	font-weight:bold;
+}
+img {
+	 display: block;
+    margin: 0 auto;
+}
+span {
+	color:red;
+}
+p{
+	text-align: center;
+	font-size: 28px;
+	color:black;
+	font-style: italic;
+}
